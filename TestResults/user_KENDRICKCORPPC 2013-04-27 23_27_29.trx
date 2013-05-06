@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="04b604b8-3ea0-49db-a051-0544a6a21c12" name="user@KENDRICKCORPPC 2013-04-27 23:27:29" runUser="KENDRICKCORPPC\user" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ce19fa3c-8cfd-474c-b1b1-3d88fc37005a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="user_KENDRICKCORPPC 2013-04-27 23_27_29">
+      <DeploymentItem filename="c:\users\user\documents\visual studio 2010\Projects\Facebook\Facebook.NET\bin\Debug\Facebook.NET.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-04-27T23:27:29.3111831-05:00" queuing="2013-04-27T23:27:30.8904279-05:00" start="2013-04-27T23:27:30.9593460-05:00" finish="2013-04-27T23:27:31.7444459-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MeAccountsGetTest" storage="c:\users\user\documents\visual studio 2010\projects\facebook\testproject\bin\debug\testproject.dll" id="fda1e8bc-ec61-f31c-108e-e1e8d581597d">
+      <Execution id="64fa84ea-418b-4401-865d-da23bc27666f" />
+      <TestMethod codeBase="c:/users/user/documents/visual studio 2010/Projects/Facebook/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.FacebookGraphAPITests, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MeAccountsGetTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fda1e8bc-ec61-f31c-108e-e1e8d581597d" executionId="64fa84ea-418b-4401-865d-da23bc27666f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="64fa84ea-418b-4401-865d-da23bc27666f" testId="fda1e8bc-ec61-f31c-108e-e1e8d581597d" testName="MeAccountsGetTest" computerName="KENDRICKCORPPC" duration="00:00:00.4559970" startTime="2013-04-27T23:27:31.0063957-05:00" endTime="2013-04-27T23:27:31.7064962-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="64fa84ea-418b-4401-865d-da23bc27666f">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsNotNull failed. </Message>
+          <StackTrace>   at TestProject.FacebookGraphAPITests.MeAccountsGetTest() in c:\users\user\documents\visual studio 2010\Projects\Facebook\TestProject\FacebookGraphAPITests.cs:line 78
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

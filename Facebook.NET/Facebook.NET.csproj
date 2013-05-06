@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E15D9A26-B076-47FD-A0AA-85AAA258F930}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Facebook</RootNamespace>
+    <AssemblyName>Facebook.NET</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="API.cs" />
+    <Compile Include="GraphAPI.Account.cs" />
+    <Compile Include="GraphAPI.Account.Fields.cs" />
+    <Compile Include="GraphAPI.AccountData.cs" />
+    <Compile Include="GraphAPI.Achievement.cs" />
+    <Compile Include="GraphAPI.AchievementInstance.cs" />
+    <Compile Include="GraphAPI.Album.cs" />
+    <Compile Include="GraphAPI.Application.cs" />
+    <Compile Include="GraphAPI.Array.cs" />
+    <Compile Include="GraphAPI.Checkin.cs" />
+    <Compile Include="GraphAPI.Comment.cs" />
+    <Compile Include="GraphAPI.Cover.cs" />
+    <Compile Include="GraphAPI.Currency.cs" />
+    <Compile Include="GraphAPI.Client.cs" />
+    <Compile Include="GraphAPI.cs" />
+    <Compile Include="GraphAPI.Education.cs" />
+    <Compile Include="GraphAPI.Error.cs" />
+    <Compile Include="GraphAPI.Event.cs" />
+    <Compile Include="GraphAPI.Event.Fields.cs" />
+    <Compile Include="GraphAPI.FriendList.cs" />
+    <Compile Include="GraphAPI.Group.cs" />
+    <Compile Include="GraphAPI.Insights.cs" />
+    <Compile Include="GraphAPI.Link.cs" />
+    <Compile Include="GraphAPI.Message.cs" />
+    <Compile Include="GraphAPI.Note.cs" />
+    <Compile Include="GraphAPI.Offer.cs" />
+    <Compile Include="GraphAPI.Order.cs" />
+    <Compile Include="GraphAPI.Page.cs" />
+    <Compile Include="GraphAPI.Pagination.cs" />
+    <Compile Include="GraphAPI.Pagination.Cursor.cs" />
+    <Compile Include="GraphAPI.Photo.cs" />
+    <Compile Include="GraphAPI.Post.cs" />
+    <Compile Include="GraphAPI.PricePoint.cs" />
+    <Compile Include="GraphAPI.Question.cs" />
+    <Compile Include="GraphAPI.Review.cs" />
+    <Compile Include="GraphAPI.SecuritySettings.cs" />
+    <Compile Include="GraphAPI.Settings.cs" />
+    <Compile Include="GraphAPI.Status.cs" />
+    <Compile Include="GraphAPI.Thread.cs" />
+    <Compile Include="GraphAPI.User.cs" />
+    <Compile Include="GraphAPI.PaymentPricePoint.cs" />
+    <Compile Include="GraphAPI.Job.cs" />
+    <Compile Include="GraphAPI.IObject.cs" />
+    <Compile Include="GraphAPI.Values.cs" />
+    <Compile Include="GraphAPI.Venue.cs" />
+    <Compile Include="GraphAPI.Video.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GraphAPI.VideoUploadLimit.cs" />
+    <Compile Include="Response.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GraphAPI.User.Fields.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GraphAPI.Domain.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GraphAPI.Me.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
