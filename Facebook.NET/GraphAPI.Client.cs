@@ -52,17 +52,15 @@ namespace Facebook
                     ParameterizeIfNotNull("privacy_type", privacyType),
                     ParameterizeIfNotNull("access_token", base.AccessToken));
 
-                GraphAPI.Response<GraphAPI.Event> result = GraphAPI.DeserializeResponse<GraphAPI.Response<GraphAPI.Event>>(formattedUri);
-
-                GraphAPI.Event resultData = result.Data;
-                resultData.Name = name;
-                resultData.StartTime = startTime;
-                resultData.EndTime = endTime;
-                resultData.Description = description;
-                //resultData.Location = new string
-                resultData.Privacy = privacyType;
-
-                return resultData;
+                GraphAPI.Event result = GraphAPI.DeserializeResponse<GraphAPI.Event>(formattedUri, "POST");
+                result.Name = name;
+                result.StartTime = startTime;
+                result.EndTime = endTime;
+                result.Description = description;
+                result.Location = location;
+                result.Privacy = privacyType;
+                
+                return result;
             }
 
             public string ParameterizeIfNotNull(string name, string value)

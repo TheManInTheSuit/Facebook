@@ -54,10 +54,11 @@ namespace Facebook
             return builder.ToString();
         }
 
-        internal static T DeserializeResponse<T>(string uri)
+        internal static T DeserializeResponse<T>(string uri, string method = "GET")
         {
             T result;
             WebRequest request = HttpWebRequest.Create(uri);
+            request.Method = method;
             using (WebResponse response = request.GetResponse())
             {
                 using (Stream stream = response.GetResponseStream())

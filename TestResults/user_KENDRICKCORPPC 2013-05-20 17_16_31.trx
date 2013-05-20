@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="333fecff-2a21-454f-b871-9eebc4f15614" name="user@KENDRICKCORPPC 2013-05-20 17:16:31" runUser="KENDRICKCORPPC\user" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ce19fa3c-8cfd-474c-b1b1-3d88fc37005a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="user_KENDRICKCORPPC 2013-05-20 17_16_31">
+      <DeploymentItem filename="C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\bin\Debug\Facebook.NET.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-20T17:16:31.2313336-05:00" queuing="2013-05-20T17:16:32.4714361-05:00" start="2013-05-20T17:16:32.4764368-05:00" finish="2013-05-20T17:16:33.5005501-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="6" executed="6" passed="5" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetUserTest" storage="c:\users\user\documents\code\github\facebook\testproject\bin\debug\testproject.dll" id="148fcbbf-f38c-e7e3-7d5a-192241caf1b6">
+      <Execution id="3870248d-5ea9-44a2-9693-365049de7cb2" />
+      <TestMethod codeBase="C:/Users/user/Documents/Code/GitHub/Facebook/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.FacebookGraphAPITests, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetUserTest" />
+    </UnitTest>
+    <UnitTest name="GetUserWithFilterTest" storage="c:\users\user\documents\code\github\facebook\testproject\bin\debug\testproject.dll" id="ec21762d-2577-329a-0ecd-7b3eb77b19f8">
+      <Execution id="be59dd97-cc9a-41e8-a87f-e8360b6f0061" />
+      <TestMethod codeBase="C:/Users/user/Documents/Code/GitHub/Facebook/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.FacebookGraphAPITests, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetUserWithFilterTest" />
+    </UnitTest>
+    <UnitTest name="EventsPostTest" storage="c:\users\user\documents\code\github\facebook\testproject\bin\debug\testproject.dll" id="923afdf6-45c1-787a-2c85-c8452ff27d98">
+      <Execution id="4a178043-f2ce-4f05-a4b0-c3b18afca81b" />
+      <TestMethod codeBase="C:/Users/user/Documents/Code/GitHub/Facebook/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.FacebookGraphAPITests, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EventsPostTest" />
+    </UnitTest>
+    <UnitTest name="MeGetTest" storage="c:\users\user\documents\code\github\facebook\testproject\bin\debug\testproject.dll" id="2cafd472-1dd1-c5a8-f14d-2599a94bd3bf">
+      <Execution id="7eb805d7-a5d4-4895-a488-b4ddf5cbbac8" />
+      <TestMethod codeBase="C:/Users/user/Documents/Code/GitHub/Facebook/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.FacebookGraphAPITests, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MeGetTest" />
+    </UnitTest>
+    <UnitTest name="MeAccountsGetTest" storage="c:\users\user\documents\code\github\facebook\testproject\bin\debug\testproject.dll" id="fda1e8bc-ec61-f31c-108e-e1e8d581597d">
+      <Execution id="9362298c-5de9-495a-91e4-cd99796c4e29" />
+      <TestMethod codeBase="C:/Users/user/Documents/Code/GitHub/Facebook/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.FacebookGraphAPITests, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MeAccountsGetTest" />
+    </UnitTest>
+    <UnitTest name="MeGetWithFilterTest" storage="c:\users\user\documents\code\github\facebook\testproject\bin\debug\testproject.dll" id="571009ee-85d1-8c90-90fb-415bc42ccd3f">
+      <Execution id="d293667b-7d05-41a9-a640-73db29ef87fa" />
+      <TestMethod codeBase="C:/Users/user/Documents/Code/GitHub/Facebook/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.FacebookGraphAPITests, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MeGetWithFilterTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="148fcbbf-f38c-e7e3-7d5a-192241caf1b6" executionId="3870248d-5ea9-44a2-9693-365049de7cb2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ec21762d-2577-329a-0ecd-7b3eb77b19f8" executionId="be59dd97-cc9a-41e8-a87f-e8360b6f0061" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2cafd472-1dd1-c5a8-f14d-2599a94bd3bf" executionId="7eb805d7-a5d4-4895-a488-b4ddf5cbbac8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="571009ee-85d1-8c90-90fb-415bc42ccd3f" executionId="d293667b-7d05-41a9-a640-73db29ef87fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fda1e8bc-ec61-f31c-108e-e1e8d581597d" executionId="9362298c-5de9-495a-91e4-cd99796c4e29" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="923afdf6-45c1-787a-2c85-c8452ff27d98" executionId="4a178043-f2ce-4f05-a4b0-c3b18afca81b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3870248d-5ea9-44a2-9693-365049de7cb2" testId="148fcbbf-f38c-e7e3-7d5a-192241caf1b6" testName="GetUserTest" computerName="KENDRICKCORPPC" duration="00:00:00.3289765" startTime="2013-05-20T17:16:32.4793949-05:00" endTime="2013-05-20T17:16:32.9504538-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3870248d-5ea9-44a2-9693-365049de7cb2">
+    </UnitTestResult>
+    <UnitTestResult executionId="be59dd97-cc9a-41e8-a87f-e8360b6f0061" testId="ec21762d-2577-329a-0ecd-7b3eb77b19f8" testName="GetUserWithFilterTest" computerName="KENDRICKCORPPC" duration="00:00:00.0677089" startTime="2013-05-20T17:16:32.9524755-05:00" endTime="2013-05-20T17:16:33.0214636-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="be59dd97-cc9a-41e8-a87f-e8360b6f0061">
+    </UnitTestResult>
+    <UnitTestResult executionId="7eb805d7-a5d4-4895-a488-b4ddf5cbbac8" testId="2cafd472-1dd1-c5a8-f14d-2599a94bd3bf" testName="MeGetTest" computerName="KENDRICKCORPPC" duration="00:00:00.1015045" startTime="2013-05-20T17:16:33.0234632-05:00" endTime="2013-05-20T17:16:33.1265411-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7eb805d7-a5d4-4895-a488-b4ddf5cbbac8">
+    </UnitTestResult>
+    <UnitTestResult executionId="d293667b-7d05-41a9-a640-73db29ef87fa" testId="571009ee-85d1-8c90-90fb-415bc42ccd3f" testName="MeGetWithFilterTest" computerName="KENDRICKCORPPC" duration="00:00:00.0679809" startTime="2013-05-20T17:16:33.1284782-05:00" endTime="2013-05-20T17:16:33.1985166-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d293667b-7d05-41a9-a640-73db29ef87fa">
+    </UnitTestResult>
+    <UnitTestResult executionId="9362298c-5de9-495a-91e4-cd99796c4e29" testId="fda1e8bc-ec61-f31c-108e-e1e8d581597d" testName="MeAccountsGetTest" computerName="KENDRICKCORPPC" duration="00:00:00.0715052" startTime="2013-05-20T17:16:33.2005083-05:00" endTime="2013-05-20T17:16:33.2735352-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9362298c-5de9-495a-91e4-cd99796c4e29">
+    </UnitTestResult>
+    <UnitTestResult executionId="4a178043-f2ce-4f05-a4b0-c3b18afca81b" testId="923afdf6-45c1-787a-2c85-c8452ff27d98" testName="EventsPostTest" computerName="KENDRICKCORPPC" duration="00:00:00.2123176" startTime="2013-05-20T17:16:33.2755057-05:00" endTime="2013-05-20T17:16:33.4895357-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4a178043-f2ce-4f05-a4b0-c3b18afca81b">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsFalse failed. </Message>
+          <StackTrace>   at TestProject.FacebookGraphAPITests.EventsPostTest() in C:\Users\user\Documents\Code\GitHub\Facebook\TestProject\FacebookGraphAPITests.cs:line 85
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

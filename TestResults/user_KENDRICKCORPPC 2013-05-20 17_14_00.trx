@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="843b29e4-a77a-4956-bcf9-0087b00bf5b4" name="user@KENDRICKCORPPC 2013-05-20 17:14:00" runUser="KENDRICKCORPPC\user" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ce19fa3c-8cfd-474c-b1b1-3d88fc37005a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="user_KENDRICKCORPPC 2013-05-20 17_14_00">
+      <DeploymentItem filename="C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\bin\Debug\Facebook.NET.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-05-20T17:14:00.9549414-05:00" queuing="2013-05-20T17:14:02.8271753-05:00" start="2013-05-20T17:14:02.9361892-05:00" finish="2013-05-20T17:14:47.8519569-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="KENDRICKCORPPC" outcome="Error" timestamp="2013-05-20T17:14:47.8509578-05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MeAccountsGetTest" storage="c:\users\user\documents\code\github\facebook\testproject\bin\debug\testproject.dll" id="fda1e8bc-ec61-f31c-108e-e1e8d581597d">
+      <Execution id="c295be50-76f8-4f48-ad88-7b91c6e1abb6" />
+      <TestMethod codeBase="C:/Users/user/Documents/Code/GitHub/Facebook/TestProject/bin/Debug/TestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject.FacebookGraphAPITests, TestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MeAccountsGetTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fda1e8bc-ec61-f31c-108e-e1e8d581597d" executionId="c295be50-76f8-4f48-ad88-7b91c6e1abb6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c295be50-76f8-4f48-ad88-7b91c6e1abb6" testId="fda1e8bc-ec61-f31c-108e-e1e8d581597d" testName="MeAccountsGetTest" computerName="KENDRICKCORPPC" duration="00:00:44.7947526" startTime="2013-05-20T17:14:03.0572043-05:00" endTime="2013-05-20T17:14:47.8519569-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c295be50-76f8-4f48-ad88-7b91c6e1abb6">
+    </UnitTestResult>
+  </Results>
+</TestRun>

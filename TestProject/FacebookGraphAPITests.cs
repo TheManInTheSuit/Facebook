@@ -8,15 +8,13 @@ namespace TestProject
     [TestClass]
     public class FacebookGraphAPITests
     {
-        //private readonly string appID = "200087070129759";
-        //private readonly string appSecret = "195ed17914ce1c2e2c554c27e4a9c735";
         //private readonly string localhost = "http://localhost:65363";
 
         /// <summary>
         /// Use this uri to generate an access token and copy/paste the value into the "accessToken" variable.
+        /// uri: "https://developers.facebook.com/tools/explorer"
         /// </summary>
-        //private readonly string apiExplorer = "https://developers.facebook.com/tools/explorer";
-        private readonly string accessToken = "BAACEdEose0cBAK6TRaHZA9kZCNfYGkj97IeZBVNAHAk5P3tCCgbZCz9qTcAPUAqZA2REcOAhh9jtHov9H7X1TmPs8lDOCnsvva5k9JPPkEXSIrjRqtIgQi7EpgbBLe4bFFJgqSOxBpotIGbvA7kaIMsLPZASlltaqRnVd6TaoYhMbucVe0XAVcQMaFsTx99CGohBoNVi9wCeY8XTiOZBsBcu7qoJ4Vv9VDXppnUPiSpfwZDZD";
+        private readonly string accessToken = "CAACEdEose0cBAHZAyi4nZC3dgXohu8VvZCeIF0L3FvoSZBZAdmI335QQZAmEjGFoe2dZBL6rmYXlStOAI6BhsEKV3wRZAMBlSqJtth6yMrBdlzR5DAOxb3rnQIrOG715ybpFzNJCed1rxcTVKd5FLc8wu76UveCZAnmlfusnXk8KT2QZDZD";
         private readonly string userID = "100000891257073";
 
         [TestMethod]
@@ -70,25 +68,22 @@ namespace TestProject
             GraphAPI.Account account = client.Me.Accounts(10, GraphAPI.User.Fields.ID);
 
             Assert.IsNotNull(account);
-            Assert.IsNotNull(account.Paging);
             Assert.IsNotNull(account.Data);
-
-            var result = account.Data.FirstOrDefault();
-            Assert.IsNotNull(result);
-            Assert.IsNotNull(result.ID);
         }
 
         [TestMethod]
         public void EventsPostTest()
         {
             var client = new GraphAPI.Client(accessToken);
-            GraphAPI.Event result = client.CreateEvent(Guid.NewGuid().ToString(), DateTime.UtcNow.ToString());
+            string dateTime = DateTime.Now.AddDays(1).ToString("yyyy-MM-dd THH:mm:ss-");
+            string offset = DateTimeOffset.Now.ToString("HHmm");
+
+            GraphAPI.Event result = client.CreateEvent("test event", dateTime + offset);
 
             Assert.IsNotNull(result);
 
-            bool hasValue = String.IsNullOrEmpty(result.ID);
-            Assert.IsFalse(hasValue);
-            Assert.AreEqual(result.ID, userID);
+            bool isIDEmpty = String.IsNullOrEmpty(result.ID);
+            Assert.IsFalse(isIDEmpty);
         }
         
     }
