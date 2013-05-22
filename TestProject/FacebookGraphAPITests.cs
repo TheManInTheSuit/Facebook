@@ -6,7 +6,7 @@ using Facebook;
 namespace TestProject
 {
     [TestClass]
-    public class FacebookGraphAPITests
+    public class FacebookGraphApiTests
     {
         //private readonly string localhost = "http://localhost:65363";
 
@@ -20,8 +20,8 @@ namespace TestProject
         [TestMethod]
         public void GetUserTest()
         {
-            var client = new GraphAPI.Client(accessToken);
-            GraphAPI.User user = client.Get<GraphAPI.User>(userID);
+            var client = new GraphApi.Client(accessToken);
+            GraphApi.User user = client.Get<GraphApi.User>(userID);
 
             Assert.IsNotNull(user);
             Assert.IsNotNull(user.ID);
@@ -31,8 +31,8 @@ namespace TestProject
         [TestMethod]
         public void GetUserWithFilterTest()
         {
-            var client = new GraphAPI.Client(accessToken);
-            GraphAPI.User user = client.Get<GraphAPI.User>(userID, GraphAPI.User.Fields.ID);
+            var client = new GraphApi.Client(accessToken);
+            GraphApi.User user = client.Get<GraphApi.User>(userID, GraphApi.User.Fields.ID);
 
             Assert.IsNotNull(user);
             Assert.IsNotNull(user.ID);
@@ -42,8 +42,8 @@ namespace TestProject
         [TestMethod]
         public void MeGetTest()
         {
-            var client = new GraphAPI.Client(accessToken);
-            GraphAPI.User user = client.Me.Get();
+            var client = new GraphApi.Client(accessToken);
+            GraphApi.User user = client.Me.Get();
 
             Assert.IsNotNull(user);
             Assert.IsNotNull(user.ID);
@@ -53,8 +53,8 @@ namespace TestProject
         [TestMethod]
         public void MeGetWithFilterTest()
         {
-            var client = new GraphAPI.Client(accessToken);
-            GraphAPI.User user = client.Me.Get(GraphAPI.User.Fields.ID);
+            var client = new GraphApi.Client(accessToken);
+            GraphApi.User user = client.Me.Get(GraphApi.User.Fields.ID);
 
             Assert.IsNotNull(user);
             Assert.IsNotNull(user.ID);
@@ -64,8 +64,8 @@ namespace TestProject
         [TestMethod]
         public void MeAccountsGetTest()
         {
-            var client = new GraphAPI.Client(accessToken);
-            GraphAPI.Account account = client.Me.Accounts(10, GraphAPI.User.Fields.ID);
+            var client = new GraphApi.Client(accessToken);
+            GraphApi.Account account = client.Me.Accounts(10, GraphApi.User.Fields.ID);
 
             Assert.IsNotNull(account);
             Assert.IsNotNull(account.Data);
@@ -74,11 +74,11 @@ namespace TestProject
         [TestMethod]
         public void EventsPostTest()
         {
-            var client = new GraphAPI.Client(accessToken);
+            var client = new GraphApi.Client(accessToken);
             string dateTime = DateTime.Now.AddDays(1).ToString("yyyy-MM-dd THH:mm:ss-");
             string offset = DateTimeOffset.Now.ToString("HHmm");
 
-            GraphAPI.Event result = client.CreateEvent("test event", dateTime + offset);
+            GraphApi.Event result = client.CreateEvent("test event", dateTime + offset);
 
             Assert.IsNotNull(result);
 

@@ -1,0 +1,1388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="ce125d61-ce83-4a58-86fc-7e24dab3fc6f">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Account.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\API.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>18</Column>
+          <Text>Type name does not match file name</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Account.Fields.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>3</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.AccountData.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Achievement.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.AchievementInstance.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Album.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Application.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Array.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Checkin.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Comment.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Cover.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Currency.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Domain.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Education.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Error.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Event.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>7</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Event.Fields.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>3</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.FriendList.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Group.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Insights.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.IObject.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>3</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Job.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Link.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Message.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Note.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Offer.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Order.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Page.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>7</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Pagination.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Pagination.Cursor.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.PaymentPricePoint.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Photo.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Post.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.PricePoint.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Question.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Review.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.SecuritySettings.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Settings.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>7</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Status.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Thread.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.User.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>7</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.User.Fields.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>3</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Values.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Venue.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.Video.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Contracts\GraphAPI.VideoUploadLimit.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET\Facebook.NET.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>33</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\TestProject\FacebookGraphAPITests.cs</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\TestProject\TestProject.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>18</Column>
+          <Text>Type name does not match file name</Text>
+          <Line>9</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Album.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.AchievementInstance.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\GraphAPI.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>7</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>38</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>8</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\API.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>3</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>15</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>15</Column>
+          <Text>Type name does not match file name</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Cover.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Education.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Error.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.FriendList.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Group.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.IObject.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>3</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Link.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Offer.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Page.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Pagination.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.PaymentPricePoint.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Pagination.Cursor.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Question.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.SecuritySettings.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Thread.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Status.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Venue.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Video.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Settings.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Array.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Response.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\GraphAPI.Client.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>38</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Account.Fields.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>3</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>38</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Review.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.PricePoint.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Order.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Note.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Message.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Job.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Insights.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\GraphAPI.Me.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>38</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Event.Fields.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>3</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Currency.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Comment.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Event.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Checkin.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Achievement.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Domain.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Photo.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Post.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.User.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>6</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.User.Fields.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>3</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Values.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.VideoUploadLimit.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.AccountData.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Application.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>41</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Contracts\GraphAPI.Account.vb</Path>
+        <ProjectFullName>C:\Users\user\Documents\Code\GitHub\Facebook\Facebook.NET - VB\Facebook.NET - VB.vbproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>11</Column>
+          <Text>The namespace doesn't match the project default namespace &amp; directory</Text>
+          <Line>4</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>38</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

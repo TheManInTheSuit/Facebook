@@ -2,14 +2,13 @@
 
 namespace Facebook
 {
-    public class API
+    public class Api
     {
-        private readonly string accessToken;
-        protected string AccessToken { get { return accessToken; } }
-
-        public API(string accessToken)
+        public Api(string accessToken)
         {
-            this.accessToken = accessToken;
+            this.AccessToken = accessToken;
         }
+
+        protected string AccessToken { get; private set; }
     }
 }

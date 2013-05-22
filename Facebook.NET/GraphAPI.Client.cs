@@ -3,56 +3,61 @@ using System.IO;
 
 namespace Facebook
 {
-    public static partial class GraphAPI
+    public static partial class GraphApi
     {
-                    
-        public sealed partial class Client : API
+        public sealed partial class Client : Api
         {
-            private GraphAPI.User user = null;
-            private GraphAPI.User User
+            private GraphApi.User user = null;
+            private Me me = null;
+
+            public Client(string accessToken) : base(accessToken)
             {
-                get { return user ?? (user = Me.Get()); }
             }
 
-            private Me me = null;
             public Me Me
             {
-                get { return me ?? (me = new Me(base.AccessToken)); }
+                get
+                {
+                    return this.me ?? (this.me = new Me(base.AccessToken));
+                }
             }
 
-            public Client(string accessToken)
-                : base(accessToken)
+            private GraphApi.User User
             {
+                get
+                {
+                    return this.user ?? (this.user = this.Me.Get());
+                }
             }
 
             public T Get<T>(string id, params string[] fields)
             {
-                string formattedUri = GraphAPI.GetFormattedUri(
-                    Path.Combine(graphUri, id),
-                    GraphAPI.GetParameterizedString("fields", fields),
-                    GraphAPI.GetParameterizedString("access_token", base.AccessToken));
+                string formattedUri = GraphApi.GetFormattedUri(
+                    Path.Combine(GraphUri, id),
+                    GraphApi.GetParameterizedString("fields", fields),
+                    GraphApi.GetParameterizedString("access_token", base.AccessToken));
 
-                T result = GraphAPI.DeserializeResponse<T>(formattedUri);
+                T result = GraphApi.DeserializeResponse<T>(formattedUri);
 
                 return result;
             }
 
-            public GraphAPI.Event CreateEvent(string name, string startTime,
+            public GraphApi.Event CreateEvent(string name, string startTime,
                 string endTime = null, string description = null, string location = null,
-                    string locationID = null, string privacyType = null)
+                string locationID = null, string privacyType = null)
             {
-                string formattedUri = GraphAPI.GetFormattedUri(
-                    Path.Combine(graphUri, User.ID, "events"),
-                    ParameterizeIfNotNull("name", name),
-                    ParameterizeIfNotNull("start_time", startTime),
-                    ParameterizeIfNotNull("end_time", endTime),
-                    ParameterizeIfNotNull("description", description),
-                    ParameterizeIfNotNull("location", location),
-                    ParameterizeIfNotNull("location_id", locationID),
-                    ParameterizeIfNotNull("privacy_type", privacyType),
-                    ParameterizeIfNotNull("access_token", base.AccessToken));
+                string formattedUri = GraphApi.GetFormattedUri(
+                    Path.Combine(GraphUri, this.User.ID, "events"),
+                    this.ParameterizeIfNotNull("name", name),
+                    this.ParameterizeIfNotNull("start_time", startTime),
+                    this.ParameterizeIfNotNull("end_time", endTime),
+                    this.ParameterizeIfNotNull("description", description),
+                    this.ParameterizeIfNotNull("location", location),
+                    this.ParameterizeIfNotNull("location_id", locationID),
+                    this.ParameterizeIfNotNull("privacy_type", privacyType),
+                    this.ParameterizeIfNotNull("access_token", base.AccessToken));
 
-                GraphAPI.Event result = GraphAPI.DeserializeResponse<GraphAPI.Event>(formattedUri, "POST");
+                GraphApi.Event result = GraphApi.DeserializeResponse<GraphApi.Event>(formattedUri, "POST");
                 result.Name = name;
                 result.StartTime = startTime;
                 result.EndTime = endTime;
@@ -65,8 +70,7 @@ namespace Facebook
 
             public string ParameterizeIfNotNull(string name, string value)
             {
-                return string.IsNullOrEmpty(value) ?
-                    string.Empty : GraphAPI.GetParameterizedString(name, value);
+                return string.IsNullOrEmpty(value) ? string.Empty : GraphApi.GetParameterizedString(name, value);
             }
         }
     }

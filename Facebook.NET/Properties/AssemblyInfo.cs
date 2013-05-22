@@ -1,18 +1,17 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Facebook.NET")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Facebook.NET")]
+[assembly: AssemblyDescription("A wrapper for the serialized responses from the public Facebook GraphAPI.")]
+[assembly: AssemblyConfiguration("Open Source")]
+[assembly: AssemblyCompany("Kendrick Corp.")]
+[assembly: AssemblyProduct("Facebook.NET v1.0.0.0")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
+[assembly: AssemblyCulture("EN")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 

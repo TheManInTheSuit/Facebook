@@ -1,26 +1,25 @@
 ﻿using System;
-using System.Linq;
 using System.IO;
+using System.Linq;
 
 namespace Facebook
 {
-	public static partial class GraphAPI
-	{
-        public sealed partial class Me : API
+    public static partial class GraphApi
+    {
+        public sealed partial class Me : Api
         {
-            internal Me(string accessToken)
-                : base(accessToken)
+            internal Me(string accessToken) : base(accessToken)
             {
             }
                 
-            public GraphAPI.User Get(params string[] fields)
+            public GraphApi.User Get(params string[] fields)
             {
-                string formattedUri = GraphAPI.GetFormattedUri(
-                    meUri,
-                    GraphAPI.GetParameterizedString("fields", fields),
-                    GraphAPI.GetParameterizedString("access_token", base.AccessToken));
+                string formattedUri = GraphApi.GetFormattedUri(
+                    MeUri,
+                    GraphApi.GetParameterizedString("fields", fields),
+                    GraphApi.GetParameterizedString("access_token", base.AccessToken));
 
-                GraphAPI.User result = GraphAPI.DeserializeResponse<GraphAPI.User>(formattedUri);
+                GraphApi.User result = GraphApi.DeserializeResponse<GraphApi.User>(formattedUri);
 
                 return result;
             }
@@ -32,15 +31,15 @@ namespace Facebook
             /// Returns: array of objects containing account name, access_token, category, id
             /// </summary>
             /// <returns></returns>
-            public GraphAPI.Account Accounts(int limit, params string[] fields)
+            public GraphApi.Account Accounts(int limit, params string[] fields)
             {
-                string formattedUri = GraphAPI.GetFormattedUri(
-                    Path.Combine(meUri, "accounts"),
-                    GraphAPI.GetParameterizedString("access_token", base.AccessToken),
-                    GraphAPI.GetParameterizedString("limit", limit.ToString()),
-                    GraphAPI.GetParameterizedString("fields", fields));
+                string formattedUri = GraphApi.GetFormattedUri(
+                    Path.Combine(MeUri, "accounts"),
+                    GraphApi.GetParameterizedString("access_token", base.AccessToken),
+                    GraphApi.GetParameterizedString("limit", limit.ToString()),
+                    GraphApi.GetParameterizedString("fields", fields));
 
-                GraphAPI.Account result = GraphAPI.DeserializeResponse<GraphAPI.Account>(formattedUri);
+                GraphApi.Account result = GraphApi.DeserializeResponse<GraphApi.Account>(formattedUri);
 
                 return result;
             }
@@ -52,17 +51,17 @@ namespace Facebook
             /// Returns: array of objects containing account name, access_token, category, id
             /// </summary>
             /// <returns></returns>
-            public GraphAPI.Account Accounts(params string[] fields)
+            public GraphApi.Account Accounts(params string[] fields)
             {
-                string formattedUri = GraphAPI.GetFormattedUri(
-                    Path.Combine(meUri, "accounts"),
-                    GraphAPI.GetParameterizedString("access_token", base.AccessToken),
-                    GraphAPI.GetParameterizedString("fields", fields));
+                string formattedUri = GraphApi.GetFormattedUri(
+                    Path.Combine(MeUri, "accounts"),
+                    GraphApi.GetParameterizedString("access_token", base.AccessToken),
+                    GraphApi.GetParameterizedString("fields", fields));
 
-                GraphAPI.Account result = GraphAPI.DeserializeResponse<GraphAPI.Account>(formattedUri);
+                GraphApi.Account result = GraphApi.DeserializeResponse<GraphApi.Account>(formattedUri);
 
                 return result;
             }
         }
-	}
+    }
 }
